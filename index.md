@@ -12,3 +12,7 @@ reverseInPlace -.So I made some changes to the ArrayTests.java but when I compil
 
 ![Image](4.png)
 ![Image](5.png)
+
+Part 3
+
+I didn't know how to host a local web server. I was so suprizes by using ssh and access i can have a remot control from any device.also the search engine shows as that how much you can control with URL manipulation. this is amezing thing to me.and also this shows me is if im connected to the web server how could afect my URL.
