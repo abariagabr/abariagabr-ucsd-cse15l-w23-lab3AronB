@@ -1,4 +1,6 @@
 Lab Report 2 - Servers and Bugs (Week 3)    PART 1
+
+![Image](one.png)
 ![Image](1.png)
 ![Image](2.png)
 ![Image](3.png)
